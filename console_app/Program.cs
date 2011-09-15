@@ -12,7 +12,7 @@ namespace console_app
             Console.WriteLine("What's you name?");
             var name = Console.ReadLine();
             Console.WriteLine("Hello, " + name.ToString());
-            Console.ReadLine(); 
+            Console.ReadLine();
         }
     }
 }
